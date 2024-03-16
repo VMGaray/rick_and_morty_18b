@@ -1,0 +1,10 @@
+.fondo {
+    text-align: center;
+        background-attachment: fixed;  
+    background-size: cover;
+    display: flex;
+     flex-wrap: wrap;
+     justify-content: space-around;
+     background-attachment: fixed;
+     
+}

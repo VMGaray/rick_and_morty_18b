@@ -1,0 +1,11 @@
+.contenedor {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    background-attachment: fixed;
+}
+.fondo {
+   text-align: center;
+ 
+  background-size: cover;
+}
